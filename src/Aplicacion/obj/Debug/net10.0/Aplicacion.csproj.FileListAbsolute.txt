@@ -1,0 +1,11 @@
+/home/anderson/Biblioteca/src/Aplicacion/bin/Debug/net10.0/Aplicacion.deps.json
+/home/anderson/Biblioteca/src/Aplicacion/bin/Debug/net10.0/Aplicacion.dll
+/home/anderson/Biblioteca/src/Aplicacion/bin/Debug/net10.0/Aplicacion.pdb
+/home/anderson/Biblioteca/src/Aplicacion/obj/Debug/net10.0/Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+/home/anderson/Biblioteca/src/Aplicacion/obj/Debug/net10.0/Aplicacion.AssemblyInfoInputs.cache
+/home/anderson/Biblioteca/src/Aplicacion/obj/Debug/net10.0/Aplicacion.AssemblyInfo.cs
+/home/anderson/Biblioteca/src/Aplicacion/obj/Debug/net10.0/Aplicacion.csproj.CoreCompileInputs.cache
+/home/anderson/Biblioteca/src/Aplicacion/obj/Debug/net10.0/Aplicacion.dll
+/home/anderson/Biblioteca/src/Aplicacion/obj/Debug/net10.0/refint/Aplicacion.dll
+/home/anderson/Biblioteca/src/Aplicacion/obj/Debug/net10.0/Aplicacion.pdb
+/home/anderson/Biblioteca/src/Aplicacion/obj/Debug/net10.0/ref/Aplicacion.dll

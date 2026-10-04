@@ -1,0 +1,15 @@
+/home/anderson/Biblioteca/src/Persistencia/bin/Debug/net10.0/Persistencia.deps.json
+/home/anderson/Biblioteca/src/Persistencia/bin/Debug/net10.0/Persistencia.dll
+/home/anderson/Biblioteca/src/Persistencia/bin/Debug/net10.0/Persistencia.pdb
+/home/anderson/Biblioteca/src/Persistencia/bin/Debug/net10.0/Aplicacion.dll
+/home/anderson/Biblioteca/src/Persistencia/bin/Debug/net10.0/Aplicacion.pdb
+/home/anderson/Biblioteca/src/Persistencia/obj/Debug/net10.0/Persistencia.csproj.AssemblyReference.cache
+/home/anderson/Biblioteca/src/Persistencia/obj/Debug/net10.0/Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/anderson/Biblioteca/src/Persistencia/obj/Debug/net10.0/Persistencia.AssemblyInfoInputs.cache
+/home/anderson/Biblioteca/src/Persistencia/obj/Debug/net10.0/Persistencia.AssemblyInfo.cs
+/home/anderson/Biblioteca/src/Persistencia/obj/Debug/net10.0/Persistencia.csproj.CoreCompileInputs.cache
+/home/anderson/Biblioteca/src/Persistencia/obj/Debug/net10.0/Persiste.7F7D6998.Up2Date
+/home/anderson/Biblioteca/src/Persistencia/obj/Debug/net10.0/Persistencia.dll
+/home/anderson/Biblioteca/src/Persistencia/obj/Debug/net10.0/refint/Persistencia.dll
+/home/anderson/Biblioteca/src/Persistencia/obj/Debug/net10.0/Persistencia.pdb
+/home/anderson/Biblioteca/src/Persistencia/obj/Debug/net10.0/ref/Persistencia.dll
