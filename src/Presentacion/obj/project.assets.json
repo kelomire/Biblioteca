@@ -46,19 +46,19 @@
     ]
   },
   "packageFolders": {
-    "/home/anderson/.nuget/packages/": {}
+    "/home/et12alumno/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/anderson/Biblioteca/src/Presentacion/Presentacion.csproj",
+      "projectUniqueName": "/home/et12alumno/Biblioteca/src/Presentacion/Presentacion.csproj",
       "projectName": "Presentacion",
-      "projectPath": "/home/anderson/Biblioteca/src/Presentacion/Presentacion.csproj",
-      "packagesPath": "/home/anderson/.nuget/packages/",
-      "outputPath": "/home/anderson/Biblioteca/src/Presentacion/obj/",
+      "projectPath": "/home/et12alumno/Biblioteca/src/Presentacion/Presentacion.csproj",
+      "packagesPath": "/home/et12alumno/.nuget/packages/",
+      "outputPath": "/home/et12alumno/Biblioteca/src/Presentacion/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/anderson/.nuget/NuGet/NuGet.Config"
+        "/home/et12alumno/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -71,11 +71,11 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/home/anderson/Biblioteca/src/Aplicacion/Aplicacion.csproj": {
-              "projectPath": "/home/anderson/Biblioteca/src/Aplicacion/Aplicacion.csproj"
+            "/home/et12alumno/Biblioteca/src/Aplicacion/Aplicacion.csproj": {
+              "projectPath": "/home/et12alumno/Biblioteca/src/Aplicacion/Aplicacion.csproj"
             },
-            "/home/anderson/Biblioteca/src/Persistencia/Persistencia.csproj": {
-              "projectPath": "/home/anderson/Biblioteca/src/Persistencia/Persistencia.csproj"
+            "/home/et12alumno/Biblioteca/src/Persistencia/Persistencia.csproj": {
+              "projectPath": "/home/et12alumno/Biblioteca/src/Persistencia/Persistencia.csproj"
             }
           }
         }
@@ -111,7 +111,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.112/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.108/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
