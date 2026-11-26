@@ -1,2 +1,4 @@
-blockchain.json
+bin/
+obj/
+.vs/
 blockchain.json
